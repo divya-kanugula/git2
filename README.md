@@ -11,4 +11,5 @@ else
     reciprocal=$(awk "BEGIN {print 1/$num}")
     echo "Reciprocal of $num = $reciprocal"
 fi
-#lets find this
+#lets find this check this frst
+
